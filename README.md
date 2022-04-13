@@ -1,7 +1,6 @@
 # Mateo Vazquez
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mat-vaz)
-[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](msvazquez@umail.ucsb.edu)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-vaz)
+[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msvazquez@ucsb.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## About Me
 
